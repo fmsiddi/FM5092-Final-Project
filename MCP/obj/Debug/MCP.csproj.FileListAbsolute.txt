@@ -1,0 +1,6 @@
+C:\Users\farez\source\repos\Database\MCP\bin\Debug\MCP.dll
+C:\Users\farez\source\repos\Database\MCP\bin\Debug\MCP.pdb
+C:\Users\farez\source\repos\Database\MCP\obj\Debug\MCP.csprojAssemblyReference.cache
+C:\Users\farez\source\repos\Database\MCP\obj\Debug\MCP.csproj.CoreCompileInputs.cache
+C:\Users\farez\source\repos\Database\MCP\obj\Debug\MCP.dll
+C:\Users\farez\source\repos\Database\MCP\obj\Debug\MCP.pdb
