@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\farez\\source\\repos\\Database\\MC\\MC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\farez\\source\\repos\\Database\\DB\\DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\farez\\source\\repos\\Database\\DB\\DB.csproj",
+        "projectName": "DB",
+        "projectPath": "C:\\Users\\farez\\source\\repos\\Database\\DB\\DB.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\farez\\source\\repos\\Database\\MC\\MC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\farez\\source\\repos\\Database\\MC\\MC.csproj",
+        "projectName": "MC",
+        "projectPath": "C:\\Users\\farez\\source\\repos\\Database\\MC\\MC.csproj",
+        "packagesPath": "C:\\Users\\farez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\farez\\source\\repos\\Database\\MC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\farez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\farez\\source\\repos\\Database\\DB\\DB.csproj": {
+                "projectPath": "C:\\Users\\farez\\source\\repos\\Database\\DB\\DB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
